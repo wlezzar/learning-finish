@@ -14,9 +14,9 @@ To introduce yourself or shake hands, often start with :
 Formal finish : we don't answer yes directly, we generally repeat the key word (I do).
 
 ### Pronouns
-|English|Colloquial|Formal|
-|-|-|-|
-I|mä|minä|
-you|sä|sinä|
-He/she|se|hän|
-it|se|se|
+|English|Colloquial|Formal
+|---|---|---
+|I|mä|minä
+|you|sä|sinä
+|He/she|se|hän
+|it|se|se
